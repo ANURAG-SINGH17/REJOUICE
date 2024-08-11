@@ -6,7 +6,7 @@ CSS (Cascading Style Sheets)<br>
 JAVASCRIPT<br>
 SWIPER.JS<br>
 LOCOMOTIVE.JS<br>
-GSAP<br>
+GSAP(GreenSock Animation Platform) <br>
 <br>
 
 ![Screenshot (23)](https://github.com/user-attachments/assets/0aeeaee1-d762-40db-a2ba-67c8406eda81)<br>
