@@ -8,7 +8,7 @@ SWIPER.JS<br>
 LOCOMOTIVE.JS<br>
 GSAP(GreenSock Animation Platform) <br>
 <br>
-
+LIVE PROJECT LINK : - https://anurag-singh17.github.io/REJOUICE/ <br>
 ![Screenshot (23)](https://github.com/user-attachments/assets/0aeeaee1-d762-40db-a2ba-67c8406eda81)<br>
 ![Screenshot (24)](https://github.com/user-attachments/assets/503735a8-3feb-4315-b88e-bd9af542de17)<br>
 
